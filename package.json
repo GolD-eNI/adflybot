@@ -1,0 +1,22 @@
+{
+  "name": "adfly_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-socks5-agent": "^1.0.5",
+    "color-randomizer": "^1.0.2",
+    "puppeteer": "^15.4.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "random-useragent": "^0.5.0",
+    "selenium-webdriver": "^4.3.1"
+  }
+}
